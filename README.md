@@ -6,7 +6,7 @@ A Python Digital assistant
 <body>
 <ul>
 <li> Wolframalpha API & wikipedia module</li>
-<li> A python virtual assistant which works like a mini-google</li>
+<li> A python virtual assistant which works like a mini-google<img src=""</li>
 <li> It can handle queries💬from social science to mathematics</li>
   <li> And guess what?😄Speech Recognition is must these days.</li></ul>
 <div><p align="left"><img src="https://github.com/aditisneh/PyDa/blob/master/2020-09-01.png" width="800px" height="450px"></p>
